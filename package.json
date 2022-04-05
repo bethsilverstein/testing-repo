@@ -1,0 +1,19 @@
+{
+  "name": "testing-repo",
+  "version": "1.0.0",
+  "description": "A repo for testing things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bethsilverstein/testing-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bethsilverstein/testing-repo/issues"
+  },
+  "homepage": "https://github.com/bethsilverstein/testing-repo#readme"
+}
